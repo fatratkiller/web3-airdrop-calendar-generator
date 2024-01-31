@@ -12,6 +12,7 @@ Open your terminal (Command Prompt or PowerShell on Windows, Terminal on macOS a
 
 ```bash
 pip install ics
+```
 
 ## Usage
 Clone the repository or download the generate_calendar.py script.
@@ -20,6 +21,7 @@ Run the script using Python:
 
 ```bash
 python generate_calendar.py
+```
 
 The script will generate an Airdrop_Calendar.ics file in the same directory.
 
